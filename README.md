@@ -2,11 +2,9 @@
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome to a Frontend Mentor's challenge! 👋
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-**This Landing Page developed in HTML5, CSS3.** 🚀
+**Landing Page developed in HTML5, CSS3.** 🚀
 
 Using CSS Grid, Flexbox, Responsive Design and BEM Architecture.
 
