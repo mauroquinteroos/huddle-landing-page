@@ -8,5 +8,6 @@
 
 Using CSS Grid, Flexbox, Responsive Design and BEM Architecture.
 
-Project Demo:
+Project Demo: https://huddle-landing-page-delta.now.sh
+
 Develop by [mauroquinteros](https://twitter.com/maurooquinteros) 💚

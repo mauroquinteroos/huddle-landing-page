@@ -118,7 +118,7 @@ button {
 }
 /* --- Information Section --- */
 .information {
-  margin: 4.375em 0 15.625em;
+  margin: 7.5em 0 15.625em;
 }
 .information__group {
   display: grid;
@@ -261,11 +261,15 @@ button {
   .header__logo {
     width: 150px;
   }
+  .header__button {
+    font-size: 1rem;
+    padding: 0.937em 2.5em;
+  }
   /* --- Hero Section --- */
   .hero {
     position: static;
     text-align: left;
-    padding: 0 0 2.81em;
+    padding: 1.875em 0 2.81em;
   }
   .hero__background {
     background: url('../images/bg-hero-desktop.svg') center;
@@ -364,5 +368,12 @@ button {
 @media screen and (min-width: 1200px) {
   :root {
     font-size: 18px;
+  }
+  .wrapper {
+    padding: 0 3rem;
+  }
+  .footer__float {
+    width: 45em;
+    left: calc(50% - 22.5em);
   }
 }
